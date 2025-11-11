@@ -1,0 +1,9 @@
+dist/
+env
+.env
+condoGeoFinder.spec
+input/
+output/
+build/
+.venv/
+logs de teste/
